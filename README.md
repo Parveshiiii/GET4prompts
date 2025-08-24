@@ -16,5 +16,5 @@ A powerful tool for generating and engineering prompts for language models. This
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/prompt-generator.git](https://github.com/yourusername/prompt-generator.git)
-   cd prompt-generator
+   git clone [https://github.com/Parveshiiii/GPT4prompts.git](https://github.com/Parveshiiii/GPT4prompts.git)
+   cd GPT4prompts

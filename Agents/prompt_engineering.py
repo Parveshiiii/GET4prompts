@@ -19,7 +19,7 @@ class prompt_engn:
 
     def generate_prompt(self):
         response = self.client.chat.completions.create(
-            model="gpt-4o-mini",
+            model=os.getenv("MODEL"),
             messages=[
                 {"role": "system", "content": self.prompt_engineering},
                 {"role": "user", "content": self.user_prompt},

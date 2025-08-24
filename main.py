@@ -1,5 +1,5 @@
-from System_prompt_gen import sys_prompt
-from prompt_engineering import prompt_engn
+from Agents.System_prompt_gen import sys_prompt
+from Agents.prompt_engineering import prompt_engn
 
 class interaction:
     def __init__(self):
